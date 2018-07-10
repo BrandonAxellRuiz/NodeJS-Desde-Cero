@@ -1,0 +1,3 @@
+iniciar node + nombre del archivo
+iniciar nodemon + nombre del archivo
+

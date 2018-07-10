@@ -1,0 +1,28 @@
+-- VisualStudioCode
+	HTML CSS Suport
+	JavaScript(ES6) code snippets
+	JS-CSS-HTML Formatter
+	Terminal
+	TypeScript Importer
+
+-- Git 
+	git --v or git --version
+	git config --global user.name = "BrandonAxellRuiz"
+	git config --global user.email = "brandon_axell@hotmail.com"
+	git config --list //verificacion de configuracion de variables
+
+
+-- NodeJS
+	apt-get install nodejs or install in page if is windows
+	node --version or node --v
+
+-- NPM
+	apt-get install npm
+	npm --version or npm --v
+
+--Nodemon //sirve para ver los cambios sin nesesidad de cerrar y abrir o ejecutar
+	npm install -g nodemon //comandos globales nesesitan super usuario
+	nodemon --version or nodemon --v
+
+	
+

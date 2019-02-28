@@ -27,9 +27,10 @@ let person = {
     nombre: 'brandon',
     apellido: 'ruiz',
     poder: 'programar',
-    getName(){
+    getName = async () => {
         return `${this.nombre} ${this.apellido} ${this.poder}`
     } 
 }
 
+let {nombre, apellido} = person;
 console.log(person.getName())

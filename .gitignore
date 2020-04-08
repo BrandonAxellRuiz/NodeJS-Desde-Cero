@@ -1,4 +1,4 @@
 03-BASES/node_modules/
 03-BASES/write-file/*.txt
 06-webserver/node_modules/*
-node_modules/
+node_modules/*

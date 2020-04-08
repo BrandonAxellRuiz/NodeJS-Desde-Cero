@@ -1,20 +1,19 @@
-const argv = require('yargs').argv;
+const argv = require('./config/yargs').argv;
 const colors = require('colors/safe');
-
-
+ 
 let comando = argv._[0];
 
 switch (comando){
 
-    case 'Crete':
+    case 'crete':
 
     break;
 
-    case 'List':
-
+    case 'list':
+        console.log('fdsdf')
     break;
 
-    case 'Actualizar':
+    case 'update':
 
     break;
 
